@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Frutas {
     public static void main(String[] args) {
-        try(Scanner scanner = new Scanner(System.in)) {
+        try (Scanner scanner = new Scanner(System.in)) {
             System.out.print("Digite um número de 1 a 3: ");
             int numero = scanner.nextInt();
             
