@@ -9,10 +9,13 @@ public class Frutas {
             switch (numero) {
                 case 1:
                     System.out.println("Maçã");
+                    break;
                 case 2:
                     System.out.println("Banana");
+                    break;
                 case 3:
                     System.out.println("Laranja");
+                    break;
                 default:
                     System.out.println("Fruta inválida");
             }
